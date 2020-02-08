@@ -10,7 +10,5 @@ class School
     @roster = {}
   end 
   
-  def add_sudents(some_students)
-    roster << some_students
-  end 
+ 
 end 
